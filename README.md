@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Augusto.
 
-🔭 Eu trabalho em período integral na [Instruct Soluções em Tecnologia](https://instruct.com.br/) como Analista em Desenvolvimento de Sistemas. E meio período na [Etec Prof. Alfredo de Barros Santos](https://eteabs.com.br/) como Auxiliar de Docente.
+🔭 Eu sou Analista em Desenvolvimento de Sistemas. E também Auxiliar de Docente na [Etec Prof. Alfredo de Barros Santos](https://eteabs.com.br/).
 
 🌱 Eu atualmente, sou estudante de Engenharia de Computação na [UNIVESP](https://univesp.br/cursos/engenharia-de-computacao).
 
