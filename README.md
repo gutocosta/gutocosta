@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Augusto.
 
-🔭 Eu sou Analista DevOps. E também Auxiliar de Docente na [Etec Prof. Alfredo de Barros Santos](https://eteabs.com.br/).
+🔭 Eu sou Analista DevOps na PrimeUP.
 
 🌱 Eu atualmente, sou estudante de Engenharia de Computação na [UNIVESP](https://univesp.br/cursos/engenharia-de-computacao).
 
